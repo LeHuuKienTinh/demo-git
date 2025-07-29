@@ -7,4 +7,8 @@ let c = 3
 let d= 4
 let e = 5
 
-consol.log(d + e)
+let f = 1000
+
+let g = 2000
+
+consol.log(f + g)
