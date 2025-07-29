@@ -11,4 +11,4 @@ let f = 1000
 
 let g = 2000
 
-consol.log(d + e)
+consol.log(f + g)
