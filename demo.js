@@ -10,4 +10,6 @@ let e = 5
 let f = 100
 
 let g = 2000
-consol.log(d + e)
+
+let h = 3000
+consol.log(d + e + h)
