@@ -4,6 +4,6 @@ let b = 2
 
 let c = 3
 
-let d = 4 
+let d = 100
 
-consol.log(a + b + c + d)
+console.log(a + b + c + d)
