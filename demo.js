@@ -9,4 +9,5 @@ let e = 5
 
 let f = 100
 
+let g = 2000
 consol.log(d + e)
