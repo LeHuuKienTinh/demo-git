@@ -7,4 +7,6 @@ let c = 3
 let d= 4
 let e = 5
 
+let f = 100
+
 consol.log(d + e)
