@@ -4,4 +4,6 @@ let b = 2
 
 let c = 3
 
-consol.log(a + b + c)
+let d = 4 
+
+consol.log(a + b + c + d)
